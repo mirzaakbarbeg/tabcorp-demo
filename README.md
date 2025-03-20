@@ -25,8 +25,7 @@ The project uses Flyway to manage the database schema and seed initial data. On 
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/mirzaakbarbeg/tabcorp-demo.git
    ```
 
 2. **Ensure PostgreSQL is running:**
